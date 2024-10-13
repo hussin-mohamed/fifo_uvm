@@ -1,4 +1,3 @@
-# fifo_uvm
 # fifo description
 A FIFO (First In, First Out) buffer is a type of data structure used in digital systems to manage and store data. It operates based on the principle that the first data item entered into the buffer is the first one to be removed, resembling a queue. FIFOs are commonly used in hardware designs and digital circuits to handle data transfer between two systems or components that operate at different speeds, ensuring smooth data flow without loss.
 Functionality:
@@ -13,3 +12,5 @@ Usage:
 •	Audio and Video Processing: In multimedia applications, FIFOs help in managing streams of audio or video data, ensuring a smooth flow from one processing stage to another.
 
 ![image](https://github.com/user-attachments/assets/497c1d18-8597-4262-878e-330a2bc62e02)
+# uvm_testbench
+![image](https://github.com/user-attachments/assets/ef955b9e-bff9-48a7-8122-552f58561667)
