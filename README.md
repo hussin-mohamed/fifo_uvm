@@ -13,4 +13,5 @@ Usage:
 
 ![image](https://github.com/user-attachments/assets/497c1d18-8597-4262-878e-330a2bc62e02)
 # uvm_testbench
-![image](https://github.com/user-attachments/assets/ef955b9e-bff9-48a7-8122-552f58561667)
+![image](https://github.com/user-attachments/assets/7e94e21e-6c75-467a-bf3f-fe50fe86171f)
+
