@@ -1,5 +1,5 @@
 # fifo UVM project
-#Overview
+# Overview
 This project involves verifying a First-In, First-Out (FIFO) memory design using the Universal Verification Methodology (UVM) and SystemVerilog. The verification environment ensures that the FIFO operates correctly by simulating various scenarios, including normal operations and corner cases such as underflow and overflow conditions.
 
 The goal of this project is to develop a comprehensive UVM testbench that validates the FIFO’s functionality, achieving 100% code and functional coverage, and addressing potential design bugs identified during the verification process.
